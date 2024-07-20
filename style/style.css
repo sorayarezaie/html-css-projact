@@ -227,9 +227,5 @@ footer p {
 	margin: 0; 
 	font-size: 0.9em; 
 } 
-@media screen and (max-width: 768px) { 
-	footer { 
-		font-size: 0.8em; 
-	} 
-}
+
 
