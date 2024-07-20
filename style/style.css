@@ -121,7 +121,7 @@ nav a:hover {
 .product { 
 	position: relative; 
 	max-height: auto; 
-	border: 1px solid #ddd; 
+	border: 1px solid #e9e3e3; 
 	padding: 15px; 
 	text-align: center; 
 	display: flex; 
