@@ -108,7 +108,7 @@ nav a:hover {
 .container { 
 	display: grid; 
 	gap: 1rem; 
-	padding-top: 60px;
+	padding-top: 50px;
 	min-height: 100vh; 
 } 
 
